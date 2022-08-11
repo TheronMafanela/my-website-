@@ -1,7 +1,7 @@
 # My Website
 
-This is a really awesome website
-
-edit on example branch
+This is a really awesome website  
 
 now editing on update-readme
+
+Updated locally
